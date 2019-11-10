@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+body{
+  background-color: #1f1f1f;
+  color: white;
+
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.card-list{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+
+.card{
+  margin: 0 0 ;
+  padding: 0 0;
+  border: 1px orange solid;
+}
